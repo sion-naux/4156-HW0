@@ -1,3 +1,10 @@
+// These codes are parts of a project: contract management system. Its main language is java.
+// Details of each file:
+// - Verify.java: To add, delete, modify and search users in the registered users database.
+// - ManageRole.java: To manage different kinds of roles which have different rights and tasks.
+// - Allocate.java: To allocate contracts, roles and rights to different users.
+
+
 package logic;
 
 import database.JDBCFacade;
